@@ -1,0 +1,2 @@
+/home/harsh/Desktop/pimple_identifier/build/dlib/CMakeFiles/dlib.dir
+/home/harsh/Desktop/pimple_identifier/build/dlib/CMakeFiles/dlib_shared.dir
